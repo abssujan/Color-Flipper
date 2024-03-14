@@ -1,0 +1,28 @@
+#color-display {
+    width: 50%;
+    margin: 100px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #fff;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+    padding: 4rem;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 900;
+
+}
+
+#color-btn {
+    font-size: 1rem;
+    padding: 0.5rem 3rem;
+    font-weight: 600;
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+}
+#color-btn:hover {
+    background-color: darkgray;
+    color: black;
+}
